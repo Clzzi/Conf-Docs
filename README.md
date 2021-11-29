@@ -14,6 +14,6 @@
 
 
 ## Contributors
-<a href="https://github.com/Clzzi/DGIT_V2_Client/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Clzzi/DGIT_V2_Client" />
+<a href="https://github.com/Clzzi/Conf-Docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Clzzi/Conf-Docs" />
 </a>
