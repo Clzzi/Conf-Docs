@@ -388,26 +388,27 @@ Jetpack이란, 모든 안드로이드 버전과 기기에 일관되게 작동하
   * Lottie 관련 코드가 3줄로 간략해지는 것을 볼 수 있음
 
 ### 몇몇 아쉬운 점들
+  - 몇몇 라이브러리는 사용할 수 없음
+    * ExoPlayer => ```AndroidView```를 사용하거나 나중에 전환하기
+    * 이미지 라이브러리(Glide, Piccaso) => 지원 계획 없음, Coil로 대체하기
+    * ```MotionLayout```
+    * ```ViewPager```
 
-    - 몇몇 라이브러리는 사용할 수 없음
-      * ExoPlayer => ```AndroidView```를 사용하거나 나중에 전환하기
-      * 이미지 라이브러리(Glide, Piccaso) => 지원 계획 없음, Coil로 대체하기
-      * ```MotionLayout```
-      * ```ViewPager```
-    - Resource 관련 사용할 수 없는 점들
-      * Shape Drawable 사용 불가능 (xml)
-      * Selector Drawable 사용 불가능
-      * ColorStateList 사용 불가능
-      * 나인패치 이미지 사용 불가능
-    - 개발 생산성은??
-      * MVVM으로 대체 언제 옮겨갈까
-      * 러닝 커브가 확실히 존재
-      * Preview 만으로는 xml에서 작성하는 것보다는 불편하다 -> 생산성 저하
-      * Build 시간, apk 사이즈
+  - Resource 관련 사용할 수 없는 점들
+    * Shape Drawable 사용 불가능 (xml)
+    * Selector Drawable 사용 불가능
+    * ColorStateList 사용 불가능
+    * 나인패치 이미지 사용 불가능
+
+  - 개발 생산성은??
+    * MVVM으로 대체 언제 옮겨갈까
+    * 러닝 커브가 확실히 존재
+    * Preview 만으로는 xml에서 작성하는 것보다는 불편하다 -> 생산성 저하
+    * Build 시간, apk 사이즈
 
 ### 그래서 앞으로는요?
-    - 그래도 이제는 조금씩 도입할 때
-      * 팀 내에서 학습하며 러닝커브를 극복
-      * 간단한 화면부터 적용해 볼 예정
-      * 간결하고 UI 위주의 코드는 👍
-      * 아키텍쳐부터 천천히 고민해보자
+  - 그래도 이제는 조금씩 도입할 때
+    * 팀 내에서 학습하며 러닝커브를 극복
+    * 간단한 화면부터 적용해 볼 예정
+    * 간결하고 UI 위주의 코드는 👍
+    * 아키텍쳐부터 천천히 고민해보자
