@@ -16,6 +16,9 @@
 ### 2021-WOOWACON
 - [배달의민족에 Jetpack Compose 적용을 시도해 보았다](https://github.com/Clzzi/Conf-Docs/blob/main/2021-WOOWACON/배달의민족에%20Jetpack%20Compose%20적용을%20시도해보았다.md)
 
+### 2022-WOOWA-TECH-SEMINA
+- [React-Query](https://github.com/Clzzi/Conf-Docs/blob/main/2022-WOOWA-TECH-SEMINA/React-Query.md)
+
 ## Contributors
 <a href="https://github.com/Clzzi/Conf-Docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Clzzi/Conf-Docs" />
