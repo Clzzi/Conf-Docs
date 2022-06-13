@@ -19,6 +19,10 @@
 ### 2022-WOOWA-TECH-SEMINA
 - [React-Query](https://github.com/Clzzi/Conf-Docs/blob/main/2022-WOOWA-TECH-SEMINA/React-Query.md)
 
+
+### 2022-SLASH22
+- [잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://github.com/Clzzi/Conf-Docs/blob/main/2022-SLASH22/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EC%9C%A0%EC%A0%80%EC%9D%98%20%EC%8B%9C%EA%B0%84%EC%9D%84%20%EC%B0%BE%EC%95%84%EC%84%9C%20:%C2%A0100%EB%85%84%EC%9D%84%20%EC%95%84%EA%BB%B4%EC%A4%80%20SSR%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md)
+
 ## Contributors
 <a href="https://github.com/Clzzi/Conf-Docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Clzzi/Conf-Docs" />
